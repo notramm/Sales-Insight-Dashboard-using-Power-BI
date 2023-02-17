@@ -1,4 +1,4 @@
-# Sales-Insight-Dashboard-using-Power-BI
+# Sales Insight Dashboard using PowerBI
 ## Sales insights project Powerbi Dashboard
 
 This project I learn from code basics youtube channel. you can find link is below.
